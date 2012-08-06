@@ -1,4 +1,4 @@
-#PDO-QOT
+#PDO-QIT
 ==============
 
 **The script-helper in the administration of the MySQL database.**
